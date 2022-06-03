@@ -11,6 +11,7 @@
     "@graphql-codegen/cli": "^2.4.0",
     "@graphql-codegen/typescript": "2.4.11",
     "@graphql-codegen/typescript-operations": "2.4.0",
+    "@graphql-codegen/typescript-urql-graphcache": "^2.2.13",
     "graphql": "^16.2.0"
   }
 }
